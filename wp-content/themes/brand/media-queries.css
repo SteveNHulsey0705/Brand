@@ -1,0 +1,580 @@
+@media screen and (max-width: 1240px) {
+
+.featured_boxes .featured-item {
+  width: calc(100% / 3);
+}
+.hometop .wpcf7-form p {
+  color: #ffffff;
+  font-size: 1.1rem;
+  line-height: 1.5rem;
+  margin-bottom: 9px;
+  margin-top: 0;
+}
+
+.hometop .wpcf7-form input[type="submit"] {
+    margin: 3px auto 0;
+    padding: 4px 44px;
+}
+
+
+#droneslist {
+    height: 668px;
+}
+
+#formsection.box.red {
+    height: 668px;
+}
+
+.page-template-page-drones #page-content #formsection.box.red .wpcf7-form input[type="submit"] {
+  display: inline-block;
+  font-size: 1.4rem;
+  height: auto;
+  letter-spacing: 2px;
+  line-height: 2rem;
+  padding: 2rem 1rem;
+  white-space: normal;
+  word-wrap: normal;
+}
+
+}
+
+
+
+
+@media screen and (max-width: 1200px) {
+
+.featured_boxes .container, .testimonial-item .container, .home_bottom .container {
+    max-width: 1150px;
+    width: 100%;
+}
+
+}
+@media screen and (max-width: 1024px) {
+
+.featured_boxes .featured-item {
+  background-size:cover !important;
+  border-right:0 solid #000000 !important;
+  display:inline-block;
+  float:left;
+  min-height:240px;
+  padding:5rem 4% 4rem;
+  width:25.3% !important;
+box-sizing: initial;
+}
+
+}
+
+@media screen and (max-width: 980px) {
+
+#main-nav{
+	display: none
+}
+
+#videos ul li {
+    width: 45%;
+}
+#page-content .bottom_content ul li {
+  margin: 0 21px;
+}
+.page-title {
+  font-size: 5rem;
+}
+#page-content #droneslist.box.red ul li {
+  font-size: 1.3rem;
+}
+
+.featured_boxes .container, .testimonial-item .container, .home_bottom .container {
+    width: 100%;
+}
+
+.home_bottom .six.columns img {
+    width: 100%;
+}
+
+#ourclients ul li {
+    border-right: 1px solid #ccc;
+    display: inline-block;
+    line-height: 95px;
+    padding: 0 7px 10px;
+    position: relative;
+    vertical-align: middle;
+}
+
+#page-content .buttoncorporate {
+    font-size: 2rem;
+} 
+.wpcf7-form {
+    margin: 7rem 15% 0;
+    width: 70%;
+}
+#ourclients ul li:last-child {
+    border-right: 0px solid #ccc;
+}
+.page-template-page-sports #page-content .container {
+    width: 100%;
+}
+#page-content .item-social li {
+  margin: 0 20px 4rem;
+}
+.page-template-page-drones .wpcf7-form p {
+    font-size: 1.2rem;
+}
+
+#page-content #formsection.box.red .wpcf7-form p.text {
+    color: #000;
+    font-family: gthmed;
+    font-size: 1.4rem;
+    margin-bottom: 9px !important;
+    margin-top: 0;
+}
+
+.box.red textarea {
+    background-color: #fff !important;
+    min-height: 110px;
+}
+#ourclients ul li {
+    max-width: 120px;
+}
+}
+
+@media screen and (max-width: 860px) {
+.featured_boxes .featured-item a {
+  white-space: pre-line;
+}
+.featured_boxes .featured-item {
+  min-height: 325px;
+}
+
+.home_bottom .six.columns.red ul li a {
+  padding: 11px 0 16px 33px;
+}
+
+.page-title {
+    font-size: 4rem;
+}
+#page-content .item-post-list h5 {
+  font-size: 2.6rem;
+}
+.featured_boxes .featured-item {
+  background-size: cover !important;
+  border-right: 0 solid #000;
+  display: inline-block;
+  float: left;
+  min-height: 240px;
+  padding: 5rem 5% 3rem;
+  width: 90%;
+}
+.featured_boxes .featured-item p {
+  color: #fff;
+  font-size: 1.2rem;
+  line-height: 1.5rem;
+  margin: 0 auto;
+  max-width: 100%;
+  min-height: 0;
+  position: relative;
+  text-align: center;
+  z-index: 55;
+}
+.hometop.box .seven.columns {
+    width: 100%;
+}
+.hometop .five.columns {
+    background: rgba(0, 0, 0, 0.4) none repeat scroll 0 0;
+    margin: 0;
+    width: 100%;
+}
+.featured_boxes .featured-item {
+  background-size: cover !important;
+  border-right: 0 solid #000;
+  display: inline-block;
+  float: left;
+  min-height: 0;
+  padding: 6rem 5% 6rem;
+  width: 90%;
+}
+.featured_boxes .featured-item a {
+  display: block !important;
+  width: 280px !important;
+}
+.home .testimonials .info {
+    padding: 4rem 10%;
+}
+.home .testimonial-item .image {
+  background-position: center center !important;
+}
+
+#videos ul li {
+  width: 100%;
+  margin: 0 0 3rem !important;
+  padding: 0 !important;
+}
+
+
+
+
+.page-template-page-about .six.columns {
+  width: 100%;
+  margin: 0;
+}
+
+
+.page-template-page-about .offset-by-six.columns {
+    margin-left: 0;
+}
+.page-template-page-about  .testimonial-item .image {
+  background-position: center center !important;
+}
+.page-template-page-about  .testimonials .info {
+  display: table-cell;
+  padding: 5rem 5%;
+  vertical-align: top;
+}
+.featured_boxes .featured-item {
+  background-size:cover !important;
+  border-right:0 solid #000000 !important;
+  display:inline-block;
+  float:left;
+  min-height:240px;
+  padding:5rem 4% 4rem;
+  width:25.3% !important;
+}
+
+.featured_boxes .featured-item {
+    background-size: cover !important;
+    border-right: 0 solid #000000 !important;
+    display: inline-block;
+    float: left;
+    min-height: 0;
+    padding: 5rem 4% 6rem;
+    width: 92% !important;
+}
+
+#droneslist {
+    height: 690px;
+}
+
+#formsection.box.red {
+    height: 690px;
+}
+
+
+
+
+}
+
+@media screen and (max-width: 800px) {
+
+#droneslist {
+    height: 720px;
+}
+
+#formsection.box.red {
+    height: 720px;
+}
+
+}
+
+
+
+@media screen and (max-width: 775px) {
+
+#droneslist {
+    height: 740px;
+}
+
+#formsection.box.red {
+    height: 740px;
+}
+
+}
+
+
+
+@media screen and (max-width: 700px) {
+
+#droneslist {
+    height: 760px;
+}
+
+#formsection.box.red {
+    height: 760px;
+}
+
+}
+
+
+@media screen and (max-width: 680px) {
+
+
+
+.page-template-page-blog .nine.columns {
+    width: 100%;
+}
+
+
+.page-template-page-blog  .three.columns {
+    margin: 0;
+    width: 100%;
+}
+
+
+
+
+}
+
+
+@media screen and (max-width: 640px) {
+
+.hometop .five.columns {
+    background: rgba(0, 0, 0, 0.4) none repeat scroll 0 0;
+    width: 100%;
+}
+.featured_boxes .featured-item {
+  min-height: 0;
+  width: 90%;
+}
+.titlecontent h3 {
+  color: #fff;
+  font-family: gthmed;
+  letter-spacing: 3px;
+  margin: 0;
+  padding: 1rem 0;
+  text-align: center;
+  width: 100%;
+  font-size: 2.4rem;
+}
+.testimonials .titlecontent h3 span {
+  background: #de0209 none repeat scroll 0 0;
+  display: inline-block;
+  height: 4px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 26px;
+  vertical-align: top;
+  width: 30px;
+}
+.home .testimonial-item .image {
+  background-size: cover !important;
+  display: inline-block;
+  vertical-align: top;
+  width: 100%;
+  height: 300px;
+}
+.home_bottom .six.columns img {
+  display: block;
+  margin: 0 auto 16px;
+  width: 30%;
+}
+#ourclients ul li {
+  border-right: 0px solid #ccc;
+}
+#page-content h3 {
+  margin: 2rem auto 2rem;
+  font-size: 2.3rem;
+}
+.image {
+    background-size: cover !important;
+    display: inline-block !important;
+    height: 300px;
+    position: static;
+    vertical-align: top;
+    width: 100%;
+}
+.sport-item {
+  display: inline-block;
+}
+.box {
+    background-position: center bottom;
+    background-size: cover;
+    padding: 3rem 20px;
+}
+#page-content .buttoncorporate {
+    font-size: 1.2rem;
+}
+#videos ul li {
+  width: 100%;
+  padding: 0;
+}
+#page-content .bottom_content ul li {
+  margin: 0 5%;
+  width: 78%;
+}
+.image {
+  background-size: cover !important;
+  display: inline-block !important;
+  height: 300px;
+  position: relative;
+  vertical-align: top;
+  width: 100%;
+}
+.page-template-page-sports .iris {
+  bottom: 0 !important;
+  margin-left: -40px !important;
+  margin-top: 0 !important;
+  position: absolute;
+  top: auto !important;
+  margin-bottom: -40px;
+}
+
+.page-template-page-sports  .image {
+  margin-bottom: 15px;
+}
+.rightimage .info {
+    float: none;
+}
+#formsection h3 {
+  padding-top: 2rem;
+}
+
+#ourclients h3 {
+  margin-top: 2rem;
+}
+
+
+#about-boxes h3 {
+  line-height:3.5rem;
+  margin:1rem auto 0rem;
+}
+
+
+.mobilecontent{
+  display: block;
+}
+
+.desktopcontent{
+  display: none
+}
+
+
+.page-template-page-drones #page-content #formsection.box.red .wpcf7-form input[type="submit"] {
+    font-size: 1.2rem;
+    padding: 1.2rem 1rem;
+}
+
+
+.page-template.page-template-page-more #ourclients.box {
+    padding: 3rem 0;
+}
+
+
+
+}
+
+
+
+@media screen and (max-width: 630px) {
+
+
+#droneslist {
+    height: 835px;
+}
+
+#formsection.box.red {
+    height: 835px;
+}
+
+
+body{
+  width: 100%;
+  overflow-x: hidden;
+
+}
+#pagewrap{
+  width: 100%;
+  overflow-x: hidden;
+
+}
+.box {
+    padding: 3rem 0;
+}
+.page-template.page-template-page-more .box {
+    padding: 3rem 20px;
+}
+
+}
+
+
+
+@media screen and (max-width: 550px) {
+
+#formsection.box.red {
+    height: auto;
+}
+
+#droneslist {
+    height: auto;
+}
+
+}
+
+
+@media screen and (max-width: 480px) {
+
+.testimonials .titlecontent h3 span {
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 25px;
+    width: 20px;
+}
+.home .testimonials .info {
+    padding: 3rem;
+}
+.featured_boxes .container, .testimonial-item .container, .home_bottom .container {
+  width: 100%;
+  padding: 0;
+}
+.home_bottom .six.columns.red ul li a {
+  padding: 11px 0 6px 33px;
+  font-size: 1.3rem;
+}
+.titlecontent h3 {
+  color: #fff;
+  font-family: gthmed;
+  font-size: 2rem;
+  letter-spacing: 1px;
+  margin: 0;
+  padding: 3rem 0;
+  text-align: center;
+  width: 100%;
+}
+#ourclients ul li {
+  border-right: 1px solid #ccc;
+  display: inline-block;
+  line-height: 95px;
+  padding: 0 0 0px;
+  position: relative;
+  vertical-align: middle;
+}
+#footer-nav{
+	display: none
+}
+
+.wpcf7-form {
+    margin: 7rem 7% 0;
+    width: 86%;
+}
+
+#ourclients ul li {
+    border-right: 0 solid #ccc;
+}
+#about-boxes h3 {
+    font-size: 3rem;
+}
+img {
+    border: 0 none;
+    max-width: 100%;
+}
+html {
+    font-size: 59.5%;
+}
+
+#droneslist {
+    height: auto;
+}
+
+#formsection.box.red {
+    height: auto;}
+
+
+
+}
